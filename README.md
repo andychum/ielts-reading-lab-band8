@@ -1,17 +1,19 @@
 # IELTS Reading Lab — Band 6.5–8
 
-An original browser-based practice tool for IELTS Academic Reading learners working towards Band 6.5 to Band 8.
+An original, interactive IELTS Academic Reading practice game for learners working towards Band 6.5 to Band 8. Created by Andy Chum.
 
-## What it practises
+## ▶ Play the game
 
-- Academic vocabulary flashcards with Japanese support
-- Meaning-match questions with randomised answer positions
-- Long-sentence comprehension through Japanese questions
-- A mini Academic Reading passage that recycles the target vocabulary in context
-- Review-pile and progress tracking stored locally in the learner's browser
+**[Open IELTS Reading Lab](https://andychum.github.io/ielts-reading-lab-band8/)**
 
-## How to run it
+No download, installation, or GitHub account is needed. Click the link above to start practising.
 
-This is a dependency-free static website. Open `dist/index.html` in a browser, or deploy the `dist/` folder to GitHub Pages or another static host.
+## What is included
 
-All passages and activities are original teaching materials. This project is not affiliated with or endorsed by IELTS.
+- **Flashcards:** Academic vocabulary with Japanese support and IELTS-style examples.
+- **Meaning Match:** Choose the closest meaning. Answer positions are mixed each round.
+- **Sentence Detective:** Understand long IELTS-style sentences through Japanese comprehension questions.
+- **Reading Quest:** Read a high-level passage where difficult target vocabulary reappears with Japanese hints beside it.
+- **Review pile:** Missed items can be revisited in the same browser.
+
+The activities are original teaching materials, not an official IELTS test or an endorsement by IELTS. Progress stays locally in the learner's browser.
