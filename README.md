@@ -8,12 +8,12 @@ An original, interactive IELTS Academic Reading practice game for learners worki
 
 No download, installation, or GitHub account is needed. Click the link above to start practising.
 
-## What is included
+## 200 interactive learning activities
 
-- **Flashcards:** Academic vocabulary with Japanese support and IELTS-style examples.
-- **Meaning Match:** Choose the closest meaning. Answer positions are mixed each round.
-- **Sentence Detective:** Understand long IELTS-style sentences through Japanese comprehension questions.
-- **Reading Quest:** Read a high-level passage where difficult target vocabulary reappears with Japanese hints beside it.
+- **50 Flashcards:** Academic vocabulary with Japanese support and IELTS-style examples.
+- **50 Meaning Match questions:** Choose the closest meaning. Answer positions are mixed every round.
+- **50 Sentence Detective tasks:** Understand long IELTS-style sentences through Japanese comprehension questions.
+- **50 Reading Quest questions:** Ten original Band 7–8 academic passages, each with five questions and Japanese vocabulary hints in the text.
 - **Review pile:** Missed items can be revisited in the same browser.
 
 The activities are original teaching materials, not an official IELTS test or an endorsement by IELTS. Progress stays locally in the learner's browser.
